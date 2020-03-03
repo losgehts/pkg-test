@@ -30,6 +30,7 @@ that's it!
         python3
 
 * and:
+
         >>> from example_pkg.mmodule import my_func
         >>> my_func()
         'Hallo Welt!'
