@@ -16,13 +16,14 @@ requirements: python3 and pip3
 
         pip install https://github.com/losgehts/pkg-test/archive/master.zip
     or
+
         pip install git+https://github.com/losgehts/pkg-test.git
 
 
 that's it!
 
 
-## usage
+## Usage
 * start the virtual environment (if not already)
 
         source venv/bin/activate
